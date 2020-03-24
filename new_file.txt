@@ -1,2 +1,3 @@
 new file.
 1st modified (local->remote)
+2nd modified (remote->local)
