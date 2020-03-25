@@ -1,2 +1,7 @@
+
 1. new file on master branch 
-2. edit on master (1st modified)
+2. Edit on master (1st modified)
+2. Edit on branch_1 ( 1st modified)
+ conflict!
+3. merge master and branch_1
+
