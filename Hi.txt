@@ -1,3 +1,4 @@
 1. create the file in master.
 2. edit in branch_2.
-
+2. edit in master.
+3. conflict solve.
