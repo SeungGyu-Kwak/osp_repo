@@ -13,3 +13,6 @@ def UnionIntersection():
     intersection.sort()
 
     print("intersection",intersection)
+
+if __name__=='__main__':
+    print("this is my_module.")
