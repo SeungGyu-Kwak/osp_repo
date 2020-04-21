@@ -11,4 +11,6 @@ def binToOther():
     print("DEC >> ",D)
     print("HEX >> ", H)
 
+if __name__=='__main__':
+    print("this is my_module.")
 
